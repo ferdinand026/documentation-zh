@@ -1,4 +1,4 @@
-name: Publish Document
+name: Test Publish Document
 
 on:
   workflow_dispatch: # Allows manual trigger from GitHub UI
