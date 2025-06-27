@@ -51,9 +51,11 @@ nav:
 theme: 
     name: material
     features:
-        - navigation.tracing
+        - navigation.tracking
         - navigation.expand
-        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.top
+        - navigation.sections
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
