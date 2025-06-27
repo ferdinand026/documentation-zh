@@ -5,6 +5,8 @@ repo_url: https://github.com/tronprotocol/documentation-zh
 nav:
     - Home: index.md
     - java-tron入门: 
+        - Test:
+            - Test1:getting_started/getting_started_with_javatron.md
         - 入门: getting_started/getting_started_with_javatron.md
     - 使用java-tron:
         - 部署: using_javatron/installing_javatron.md
