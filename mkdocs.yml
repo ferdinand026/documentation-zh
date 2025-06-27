@@ -1,6 +1,4 @@
-site_name: Java TronMore actions
-site_url: https://tronprotocol.github.io/documentation-zh/
-repo_url: https://github.com/tronprotocol/documentation-zh
+site_name: Java Tron
 
 nav:
     - Home: index.md
