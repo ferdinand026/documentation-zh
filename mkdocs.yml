@@ -1,3 +1,7 @@
+site_name: Java TronMore actions
+site_url: https://tronprotocol.github.io/documentation-zh/
+repo_url: https://github.com/tronprotocol/documentation-zh
+
 nav:
     - Home: index.md
     - java-tron入门: 
