@@ -49,10 +49,10 @@ nav:
         - 术语表: glossary.md
 
 theme: 
-    name: readthedocs
+    name: material
     feature:
         - navigation.tracing
-        - navigation.expand: false
+        - navigation.expand
         - navigation.tabs
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
