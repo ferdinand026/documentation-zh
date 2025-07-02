@@ -13,6 +13,8 @@ theme:
         - navigation.tracing  # 页面滚动时左侧导航高亮跟踪位置
         - navigation.expand # 导航目录默认全部展开
         - navigation.tabs # 顶部导航栏以 Tab 形式展示
+    hide:
+    - navigation.footer
 markdown_extensions:
     - admonition   # 支持mkdoc的提示框、文本框、代码框等
     - codehilite # 代码高亮
