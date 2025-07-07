@@ -1,13 +1,5 @@
 site_name: Java Tron
 
-nav:
-    - 简体中文:
-        - 主页: zh/index.md
-        - 使用指南: zh/guide.md
-    - English:
-      - Home: en/index.md
-      - Guide: en/guide.md
-
 theme: 
     name: material
     language: zh
@@ -28,5 +20,15 @@ plugins:
   - i18n:
       default_language: zh
       languages:
-        zh: 简体中文
-        en: English
+        - locale: zh
+          name: 简体中文
+        - locale: en
+          name: English
+
+nav:
+  - 简体中文:
+      - 主页: zh/index.md
+      - 使用指南: zh/guide.md
+  - English:
+      - Home: en/index.md
+      - Guide: en/guide.md
