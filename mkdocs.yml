@@ -31,47 +31,33 @@ nav:
   - 简体中文:
       - 主页: zh/index.md
   - English:
-      - Home: index.md
+      - Home: en/index.md
       - Getting Started With java-tron:
-          - Getting Started: getting_started/getting_started_with_javatron.md
+          - Getting Started: en/getting_started/getting_started_with_javatron.md
       - Using java-tron:
-          - Deploying: using_javatron/installing_javatron.md
-          - Backup and Restore: using_javatron/backup_restore.md
-          - Lite FullNode: using_javatron/litefullnode.md
-          - Private Network: using_javatron/private_network.md
-          - Event Subscription: architecture/event.md
-          - Database Configuration: architecture/database.md
-          - Network Connection: using_javatron/connecting_to_tron.md
-          - Node Monitoring: using_javatron/metrics.md
-          - Node Maintenance Tool: using_javatron/toolkit.md
+          - Deploying: en/using_javatron/installing_javatron.md
+          - Backup and Restore: en/using_javatron/backup_restore.md
+          - Lite FullNode: en/using_javatron/litefullnode.md
+          - Private Network: en/using_javatron/private_network.md
+          - Event Subscription: en/architecture/event.md
+          - Database Configuration: en/architecture/database.md
+          - Network Connection: en/using_javatron/connecting_to_tron.md
+          - Node Monitoring: en/using_javatron/metrics.md
+          - Node Maintenance Tool: en/using_javatron/toolkit.md
       - API:
-          - HTTP API: api/http.md
-          - gRPC API: api/rpc.md
-          - jsonRPC API: api/json-rpc.md
+          - HTTP API: en/api/http.md
+          - gRPC API: en/api/rpc.md
+          - jsonRPC API: en/api/json-rpc.md
       - Core Protocol:
-          - DPoS: mechanism-algorithm/dpos.md
-          - Super Representative: mechanism-algorithm/sr.md
-          - Account Model: mechanism-algorithm/account.md
-          - Resource Model: mechanism-algorithm/resource.md
-          - Smart Contract: contracts/contract.md
-          - System Contract: mechanism-algorithm/system-contracts.md
-          - Decentralized Exchange: mechanism-algorithm/dex.md
-          - Account Permission Management: mechanism-algorithm/multi-signatures.md
+          - DPoS: en/mechanism-algorithm/dpos.md
+          - Super Representative: en/mechanism-algorithm/sr.md
+          - Account Model: en/mechanism-algorithm/account.md
+          - Resource Model: en/mechanism-algorithm/resource.md
+          - Smart Contract: en/contracts/contract.md
+          - System Contract: en/mechanism-algorithm/system-contracts.md
+          - Decentralized Exchange: en/mechanism-algorithm/dex.md
+          - Account Permission Management: en/mechanism-algorithm/multi-signatures.md
       - For java-tron Developers:
-          - Developer Guide: developers/java-tron.md
-          - TIPs Workflow: developers/tips.md
-          - Issue Workflow: developers/issue-workflow.md
-          - Governance Workflow: developers/governance.md
-          - Configure the IDE: developers/run-in-idea.md
-          - Development Example: developers/demo.md
-          - Core Modules: developers/code-structure.md
+          - Developer Guide: en/developers/java-tron.md
       - For Dapp Developers:
-          - Tools: contracts/tools.md
-      - Clients:
-          - wallet-cli: clients/wallet-cli.md
-      - Releases:
-          - Deployment Manual for the New Version: releases/upgrade-instruction.md
-          - Integrity Check: releases/signature_verification.md
-          - History: releases/history.md
-      - Appendix:
-          - Glossary: glossary.md
+          - Tools: en/contracts/tools.md
