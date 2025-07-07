@@ -1,5 +1,5 @@
 site_name: Java Tron
-
+site_url: https://ferdinand026.github.io/documentation-zh/
 theme: 
     name: material
     features:
