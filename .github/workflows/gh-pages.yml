@@ -27,6 +27,7 @@ jobs:
         pip install mkdocs-exclude
         pip install mkdocs-material==9.6.8
         pip install jieba==0.42.1
+        pip install mkdocs-static-i18n
 
     - name: Build the document
       run: mkdocs build
