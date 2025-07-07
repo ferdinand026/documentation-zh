@@ -22,13 +22,14 @@ plugins:
       languages:
         - locale: zh
           name: 简体中文
+          default: true
+          build: true
         - locale: en
           name: English
+          build: true
 
 nav:
   - 简体中文:
       - 主页: zh/index.md
-      - 使用指南: zh/guide.md
   - English:
       - Home: en/index.md
-      - Guide: en/guide.md
