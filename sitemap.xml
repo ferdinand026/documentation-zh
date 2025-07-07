@@ -1,188 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="None"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-    </url>
-    <url>
-        <loc>Noneglossary/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneglossary/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/glossary/"/>
-    </url>
-    <url>
-        <loc>Noneapi/http/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/http/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/http/"/>
-    </url>
-    <url>
-        <loc>Noneapi/json-rpc/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/json-rpc/"/>
-    </url>
-    <url>
-        <loc>Noneapi/rpc/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/rpc/"/>
-    </url>
-    <url>
-        <loc>Nonearchitecture/database/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonearchitecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/architecture/database/"/>
-    </url>
-    <url>
-        <loc>Nonearchitecture/event/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonearchitecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/architecture/event/"/>
-    </url>
-    <url>
-        <loc>Noneclients/tron-grid/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneclients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/clients/tron-grid/"/>
-    </url>
-    <url>
-        <loc>Noneclients/wallet-cli/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneclients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/clients/wallet-cli/"/>
-    </url>
-    <url>
-        <loc>Nonecontracts/contract/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/contract/"/>
-    </url>
-    <url>
-        <loc>Nonecontracts/tools/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/tools/"/>
-    </url>
-    <url>
-        <loc>Nonecontracts/trc20/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/trc20/"/>
-    </url>
-    <url>
-        <loc>Nonecontracts/tvm/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/tvm/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/advanced-configuration/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/advanced-configuration/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/code-structure/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/code-structure/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/contribution/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/contribution/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/demo/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/demo/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/deployment/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/deployment/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/governance/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/governance/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/gpg/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/gpg/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/incentives/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/incentives/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/issue-workflow/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/issue-workflow/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/java-tron/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/java-tron/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/resources/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/resources/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/run-in-idea/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/run-in-idea/"/>
-    </url>
-    <url>
-        <loc>Nonedevelopers/tips/</loc>
-        <lastmod>2025-07-07</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/tips/"/>
-    </url>
-    <url>
         <loc>Noneen/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
@@ -190,179 +8,347 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/"/>
     </url>
     <url>
-        <loc>Nonefaq/</loc>
+        <loc>Noneen/glossary/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonefaq/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/glossary/"/>
     </url>
     <url>
-        <loc>Nonegetting_started/getting_started_with_javatron/</loc>
+        <loc>Noneen/api/http/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonegetting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/http/"/>
     </url>
     <url>
-        <loc>Noneintroduction/</loc>
+        <loc>Noneen/api/json-rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneintroduction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/json-rpc/"/>
     </url>
     <url>
-        <loc>Noneintroduction/overview/</loc>
+        <loc>Noneen/api/rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneintroduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/rpc/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/account/</loc>
+        <loc>Noneen/architecture/database/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/architecture/database/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/dex/</loc>
+        <loc>Noneen/architecture/event/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/architecture/event/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/dpos/</loc>
+        <loc>Noneen/clients/tron-grid/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/clients/tron-grid/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/multi-signatures/</loc>
+        <loc>Noneen/clients/wallet-cli/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/clients/wallet-cli/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/resource/</loc>
+        <loc>Noneen/contracts/contract/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/contract/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>Noneen/contracts/tools/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/tools/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/shielded-transaction/</loc>
+        <loc>Noneen/contracts/trc20/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/trc20/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/sr/</loc>
+        <loc>Noneen/contracts/tvm/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/tvm/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/system-contracts/</loc>
+        <loc>Noneen/developers/advanced-configuration/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/advanced-configuration/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/trc10/</loc>
+        <loc>Noneen/developers/code-structure/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/code-structure/"/>
     </url>
     <url>
-        <loc>Nonemechanism-algorithm/trondex/</loc>
+        <loc>Noneen/developers/contribution/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/trondex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/contribution/"/>
     </url>
     <url>
-        <loc>Nonereleases/history/</loc>
+        <loc>Noneen/developers/demo/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/history/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/demo/"/>
     </url>
     <url>
-        <loc>Nonereleases/signature_verification/</loc>
+        <loc>Noneen/developers/deployment/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/deployment/"/>
     </url>
     <url>
-        <loc>Nonereleases/upgrade-instruction/</loc>
+        <loc>Noneen/developers/governance/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/governance/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/backup_restore/</loc>
+        <loc>Noneen/developers/gpg/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/gpg/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/connecting_to_tron/</loc>
+        <loc>Noneen/developers/incentives/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/incentives/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/installing_javatron/</loc>
+        <loc>Noneen/developers/issue-workflow/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/issue-workflow/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/litefullnode/</loc>
+        <loc>Noneen/developers/java-tron/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/java-tron/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/metrics/</loc>
+        <loc>Noneen/developers/resources/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/resources/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/private_network/</loc>
+        <loc>Noneen/developers/run-in-idea/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/run-in-idea/"/>
     </url>
     <url>
-        <loc>Noneusing_javatron/toolkit/</loc>
+        <loc>Noneen/developers/tips/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/tips/"/>
+    </url>
+    <url>
+        <loc>Noneen/faq/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/faq/"/>
+    </url>
+    <url>
+        <loc>Noneen/getting_started/getting_started_with_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/getting_started/getting_started_with_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/introduction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/introduction/overview/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/introduction/overview/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/account/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/account/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/dex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/dex/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/dpos/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/dpos/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/multi-signatures/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/multi-signatures/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/resource/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/resource/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/shielded-TRC20-contract/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/shielded-transaction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/shielded-transaction/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/sr/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/sr/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/system-contracts/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/system-contracts/"/>
+    </url>
+    <url>
+        <loc>Noneen/mechanism-algorithm/trc10/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/trc10/"/>
+    </url>
+    <url>
+        <loc>Noneen/releases/history/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/history/"/>
+    </url>
+    <url>
+        <loc>Noneen/releases/signature_verification/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/signature_verification/"/>
+    </url>
+    <url>
+        <loc>Noneen/releases/upgrade-instruction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/upgrade-instruction/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/backup_restore/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/backup_restore/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/connecting_to_tron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/connecting_to_tron/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/installing_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/installing_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/litefullnode/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/litefullnode/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/metrics/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/metrics/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/private_network/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/private_network/"/>
+    </url>
+    <url>
+        <loc>Noneen/using_javatron/toolkit/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/toolkit/"/>
     </url>
     <url>
         <loc>Nonezh/</loc>
@@ -372,186 +358,354 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
+        <loc>Nonezh/glossary/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/glossary/"/>
     </url>
     <url>
-        <loc>Noneen/glossary/</loc>
+        <loc>Nonezh/api/http/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/glossary/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneglossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/http/"/>
     </url>
     <url>
-        <loc>Noneen/api/http/</loc>
+        <loc>Nonezh/api/json-rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/http/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/json-rpc/"/>
     </url>
     <url>
-        <loc>Noneen/api/json-rpc/</loc>
+        <loc>Nonezh/api/rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/rpc/"/>
     </url>
     <url>
-        <loc>Noneen/api/rpc/</loc>
+        <loc>Nonezh/architecture/database/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/api/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneapi/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/architecture/database/"/>
     </url>
     <url>
-        <loc>Noneen/architecture/database/</loc>
+        <loc>Nonezh/architecture/event/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/architecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonearchitecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/architecture/event/"/>
     </url>
     <url>
-        <loc>Noneen/architecture/event/</loc>
+        <loc>Nonezh/clients/tron-grid/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/architecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonearchitecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/clients/tron-grid/"/>
     </url>
     <url>
-        <loc>Noneen/clients/tron-grid/</loc>
+        <loc>Nonezh/clients/wallet-cli/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/clients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneclients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/clients/wallet-cli/"/>
     </url>
     <url>
-        <loc>Noneen/clients/wallet-cli/</loc>
+        <loc>Nonezh/contracts/contract/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/clients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneclients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/contract/"/>
     </url>
     <url>
-        <loc>Noneen/contracts/contract/</loc>
+        <loc>Nonezh/contracts/tools/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/tools/"/>
     </url>
     <url>
-        <loc>Noneen/contracts/tools/</loc>
+        <loc>Nonezh/contracts/trc20/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/trc20/"/>
     </url>
     <url>
-        <loc>Noneen/contracts/trc20/</loc>
+        <loc>Nonezh/contracts/tvm/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/tvm/"/>
     </url>
     <url>
-        <loc>Noneen/contracts/tvm/</loc>
+        <loc>Nonezh/developers/advanced-configuration/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/advanced-configuration/"/>
     </url>
     <url>
-        <loc>Noneen/developers/advanced-configuration/</loc>
+        <loc>Nonezh/developers/code-structure/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/code-structure/"/>
     </url>
     <url>
-        <loc>Noneen/developers/code-structure/</loc>
+        <loc>Nonezh/developers/contribution/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/contribution/"/>
     </url>
     <url>
-        <loc>Noneen/developers/contribution/</loc>
+        <loc>Nonezh/developers/demo/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/demo/"/>
     </url>
     <url>
-        <loc>Noneen/developers/demo/</loc>
+        <loc>Nonezh/developers/deployment/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/deployment/"/>
     </url>
     <url>
-        <loc>Noneen/developers/deployment/</loc>
+        <loc>Nonezh/developers/governance/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/governance/"/>
     </url>
     <url>
-        <loc>Noneen/developers/governance/</loc>
+        <loc>Nonezh/developers/gpg/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/gpg/"/>
     </url>
     <url>
-        <loc>Noneen/developers/gpg/</loc>
+        <loc>Nonezh/developers/incentives/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/incentives/"/>
     </url>
     <url>
-        <loc>Noneen/developers/incentives/</loc>
+        <loc>Nonezh/developers/issue-workflow/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/issue-workflow/"/>
     </url>
     <url>
-        <loc>Noneen/developers/issue-workflow/</loc>
+        <loc>Nonezh/developers/java-tron/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/java-tron/"/>
     </url>
     <url>
-        <loc>Noneen/developers/java-tron/</loc>
+        <loc>Nonezh/developers/resources/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/resources/"/>
     </url>
     <url>
-        <loc>Noneen/developers/resources/</loc>
+        <loc>Nonezh/developers/run-in-idea/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/run-in-idea/"/>
     </url>
     <url>
-        <loc>Noneen/developers/run-in-idea/</loc>
+        <loc>Nonezh/developers/tips/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/tips/"/>
     </url>
     <url>
-        <loc>Noneen/developers/tips/</loc>
+        <loc>Nonezh/faq/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/developers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonedevelopers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/faq/"/>
+    </url>
+    <url>
+        <loc>Nonezh/getting_started/getting_started_with_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/getting_started/getting_started_with_javatron/"/>
+    </url>
+    <url>
+        <loc>Nonezh/introduction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/introduction/"/>
+    </url>
+    <url>
+        <loc>Nonezh/introduction/overview/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/introduction/overview/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/account/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/account/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/dex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/dex/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/dpos/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/dpos/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/multi-signatures/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/multi-signatures/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/resource/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/resource/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/shielded-transaction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/shielded-transaction/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/sr/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/sr/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/system-contracts/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/system-contracts/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/trc10/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/trc10/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mechanism-algorithm/trondex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/trondex/"/>
+    </url>
+    <url>
+        <loc>Nonezh/releases/history/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/history/"/>
+    </url>
+    <url>
+        <loc>Nonezh/releases/signature_verification/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/signature_verification/"/>
+    </url>
+    <url>
+        <loc>Nonezh/releases/upgrade-instruction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/upgrade-instruction/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/backup_restore/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/backup_restore/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/connecting_to_tron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/connecting_to_tron/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/installing_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/installing_javatron/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/litefullnode/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/litefullnode/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/metrics/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/metrics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/private_network/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/private_network/"/>
+    </url>
+    <url>
+        <loc>Nonezh/using_javatron/toolkit/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/toolkit/"/>
     </url>
     <url>
         <loc>Noneen/en/</loc>
@@ -561,179 +715,347 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneen/"/>
     </url>
     <url>
-        <loc>Noneen/faq/</loc>
+        <loc>Noneen/en/glossary/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonefaq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/glossary/"/>
     </url>
     <url>
-        <loc>Noneen/getting_started/getting_started_with_javatron/</loc>
+        <loc>Noneen/en/api/http/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/getting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonegetting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/http/"/>
     </url>
     <url>
-        <loc>Noneen/introduction/</loc>
+        <loc>Noneen/en/api/json-rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/introduction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneintroduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/json-rpc/"/>
     </url>
     <url>
-        <loc>Noneen/introduction/overview/</loc>
+        <loc>Noneen/en/api/rpc/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/introduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneintroduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/api/rpc/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/account/</loc>
+        <loc>Noneen/en/architecture/database/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/architecture/database/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/dex/</loc>
+        <loc>Noneen/en/architecture/event/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/architecture/event/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/dpos/</loc>
+        <loc>Noneen/en/clients/tron-grid/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/clients/tron-grid/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/multi-signatures/</loc>
+        <loc>Noneen/en/clients/wallet-cli/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/clients/wallet-cli/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/resource/</loc>
+        <loc>Noneen/en/contracts/contract/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/contract/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>Noneen/en/contracts/tools/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/tools/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/shielded-transaction/</loc>
+        <loc>Noneen/en/contracts/trc20/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/trc20/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/sr/</loc>
+        <loc>Noneen/en/contracts/tvm/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/contracts/tvm/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/system-contracts/</loc>
+        <loc>Noneen/en/developers/advanced-configuration/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/advanced-configuration/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/trc10/</loc>
+        <loc>Noneen/en/developers/code-structure/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/code-structure/"/>
     </url>
     <url>
-        <loc>Noneen/mechanism-algorithm/trondex/</loc>
+        <loc>Noneen/en/developers/contribution/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/mechanism-algorithm/trondex/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonemechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/contribution/"/>
     </url>
     <url>
-        <loc>Noneen/releases/history/</loc>
+        <loc>Noneen/en/developers/demo/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/history/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/demo/"/>
     </url>
     <url>
-        <loc>Noneen/releases/signature_verification/</loc>
+        <loc>Noneen/en/developers/deployment/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/deployment/"/>
     </url>
     <url>
-        <loc>Noneen/releases/upgrade-instruction/</loc>
+        <loc>Noneen/en/developers/governance/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/releases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonereleases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/governance/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/backup_restore/</loc>
+        <loc>Noneen/en/developers/gpg/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/gpg/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/connecting_to_tron/</loc>
+        <loc>Noneen/en/developers/incentives/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/incentives/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/installing_javatron/</loc>
+        <loc>Noneen/en/developers/issue-workflow/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/issue-workflow/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/litefullnode/</loc>
+        <loc>Noneen/en/developers/java-tron/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/java-tron/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/metrics/</loc>
+        <loc>Noneen/en/developers/resources/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/resources/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/private_network/</loc>
+        <loc>Noneen/en/developers/run-in-idea/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/run-in-idea/"/>
     </url>
     <url>
-        <loc>Noneen/using_javatron/toolkit/</loc>
+        <loc>Noneen/en/developers/tips/</loc>
         <lastmod>2025-07-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/using_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneusing_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/developers/tips/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/faq/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/faq/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/getting_started/getting_started_with_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/getting_started/getting_started_with_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/introduction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/introduction/overview/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/introduction/overview/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/account/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/account/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/dex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/dex/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/dpos/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/dpos/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/multi-signatures/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/multi-signatures/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/resource/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/resource/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/shielded-TRC20-contract/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/shielded-transaction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/shielded-transaction/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/sr/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/sr/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/system-contracts/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/system-contracts/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/mechanism-algorithm/trc10/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/mechanism-algorithm/trc10/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/releases/history/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/history/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/releases/signature_verification/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/signature_verification/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/releases/upgrade-instruction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/releases/upgrade-instruction/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/backup_restore/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/backup_restore/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/connecting_to_tron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/connecting_to_tron/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/installing_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/installing_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/litefullnode/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/litefullnode/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/metrics/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/metrics/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/private_network/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/private_network/"/>
+    </url>
+    <url>
+        <loc>Noneen/en/using_javatron/toolkit/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/en/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneen/using_javatron/toolkit/"/>
     </url>
     <url>
         <loc>Noneen/zh/</loc>
@@ -741,5 +1063,355 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/glossary/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/glossary/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/api/http/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/http/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/api/json-rpc/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/json-rpc/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/api/rpc/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/rpc/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/architecture/database/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/architecture/database/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/architecture/event/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/architecture/event/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/clients/tron-grid/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/clients/tron-grid/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/clients/wallet-cli/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/clients/wallet-cli/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/contracts/contract/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/contract/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/contracts/tools/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/tools/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/contracts/trc20/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/trc20/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/contracts/tvm/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contracts/tvm/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/advanced-configuration/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/advanced-configuration/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/code-structure/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/code-structure/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/contribution/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/contribution/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/demo/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/demo/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/deployment/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/deployment/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/governance/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/governance/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/gpg/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/gpg/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/incentives/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/incentives/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/issue-workflow/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/issue-workflow/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/java-tron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/java-tron/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/resources/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/resources/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/run-in-idea/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/run-in-idea/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/developers/tips/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/developers/tips/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/faq/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/faq/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/getting_started/getting_started_with_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/getting_started/getting_started_with_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/introduction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/introduction/overview/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/introduction/overview/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/account/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/account/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/dex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/dex/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/dpos/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/dpos/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/multi-signatures/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/multi-signatures/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/resource/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/resource/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/shielded-TRC20-contract/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/shielded-transaction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/shielded-transaction/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/sr/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/sr/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/system-contracts/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/system-contracts/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/trc10/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/trc10/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/mechanism-algorithm/trondex/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/mechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mechanism-algorithm/trondex/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/releases/history/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/history/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/releases/signature_verification/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/signature_verification/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/releases/upgrade-instruction/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/releases/upgrade-instruction/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/backup_restore/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/backup_restore/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/connecting_to_tron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/connecting_to_tron/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/installing_javatron/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/installing_javatron/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/litefullnode/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/litefullnode/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/metrics/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/metrics/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/private_network/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/private_network/"/>
+    </url>
+    <url>
+        <loc>Noneen/zh/using_javatron/toolkit/</loc>
+        <lastmod>2025-07-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/zh/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/using_javatron/toolkit/"/>
     </url>
 </urlset>
