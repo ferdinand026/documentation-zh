@@ -18,6 +18,7 @@ plugins:
   - search
   - i18n:
       default_language: zh
+      default_language_only: true
       languages:
         - locale: zh
           name: 简体中文
