@@ -1,6 +1,5 @@
 site_name: Java Tron
 site_url: https://ferdinand026.github.io/documentation-zh/
-use_directory_urls: false  # 防止路径嵌套异常
 theme: 
     name: material
     features:
