@@ -30,7 +30,10 @@ jobs:
         pip install mkdocs-static-i18n
 
     - name: Build the document
-      run: mkdocs build
+      run:  | 
+        rm -rf site/
+        mkdocs build
+        mkdocs gh-deploy --force
 
     - name: Deploy 
       uses: JamesIves/github-pages-deploy-action@v4
