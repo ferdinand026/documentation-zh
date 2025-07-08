@@ -1,1417 +1,1417 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/glossary/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/glossary.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/glossary/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/glossary.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/glossary.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/api/http/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/api/http.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/http/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/http.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/http.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/api/json-rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/api/json-rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/json-rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/api/rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/api/rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/architecture/database/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/architecture/database.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/database.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/database.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/architecture/event/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/architecture/event.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/event.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/event.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/contract.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/tools/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/tools.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/trc20/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/trc20.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/trc20.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/tvm/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/contracts/tvm.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tvm.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/code-structure/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/code-structure.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/code-structure.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/contribution/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/contribution.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/contribution.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/demo/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/demo.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/demo.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/demo.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/deployment/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/deployment.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/deployment.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/governance/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/governance.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/governance.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/governance.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/gpg/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/gpg.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/gpg.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/incentives/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/incentives.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/incentives.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/java-tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/java-tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/java-tron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/resources/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/resources.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/resources.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/resources.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/tips/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/developers/tips.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/tips.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/tips.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/faq/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/faq/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/faq/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/faq/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/faq/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/introduction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/introduction/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/introduction/overview/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/introduction/overview.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/overview.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/history/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/history.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/history/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/history.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/history.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/glossary/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/glossary.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/glossary/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/glossary.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/glossary.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/http/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/http.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/http/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/http.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/http.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/api/rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/architecture/database/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/architecture/database.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/database.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/architecture/event/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/architecture/event.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/event.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/contract.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/tools/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/tools.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/contribution/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/contribution.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/contribution.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/demo/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/demo.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/demo.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/deployment/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/deployment.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/deployment.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/governance/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/governance.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/governance.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/gpg/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/gpg.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/gpg.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/incentives/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/incentives.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/incentives.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/resources/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/resources.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/resources.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/tips/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/developers/tips.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/tips.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/faq/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/faq/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/faq/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/faq/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/faq/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/introduction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/introduction/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/introduction/overview/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/introduction/overview.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/overview.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/history/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/history.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/history/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/history.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/history.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/glossary/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/glossary.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/glossary/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/glossary.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/glossary.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/http/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/http.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/http/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/http.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/http.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/json-rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/json-rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/api/rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/api/rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/api/rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/architecture/database/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/architecture/database.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/database.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/database.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/architecture/event/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/architecture/event.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/architecture/event.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/architecture/event.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/tron-grid.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/tron-grid.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/clients/wallet-cli.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/clients/wallet-cli.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/contract.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tools.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/trc20.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/trc20.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/contracts/tvm.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/contracts/tvm.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/advanced-configuration.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/advanced-configuration.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/code-structure.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/code-structure.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/contribution.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/contribution.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/demo/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/demo.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/demo.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/demo.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/deployment.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/deployment.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/governance/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/governance.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/governance.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/governance.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/gpg.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/gpg.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/incentives.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/incentives.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/issue-workflow.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/issue-workflow.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/java-tron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/java-tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/resources/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/resources.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/resources.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/resources.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/run-in-idea.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/run-in-idea.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/tips/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/developers/tips.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/developers/tips.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/developers/tips.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/faq/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/faq/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/faq/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/faq/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/faq/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/getting_started/getting_started_with_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/getting_started/getting_started_with_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/introduction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/introduction/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/introduction/overview.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/introduction/overview.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/account.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/account.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dex.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/dpos.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/dpos.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/multi-signatures.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/multi-signatures.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/resource.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/resource.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-TRC20-contract.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-TRC20-contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/shielded-transaction.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/shielded-transaction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/sr.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/sr.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/system-contracts.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/system-contracts.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/mechanism-algorithm/trc10.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/mechanism-algorithm/trc10.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/history/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/history.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/history/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/history.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/history.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/signature_verification.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/signature_verification.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/releases/upgrade-instruction.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/releases/upgrade-instruction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/backup_restore.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/backup_restore.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/connecting_to_tron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/connecting_to_tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/installing_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/installing_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/litefullnode.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/litefullnode.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/metrics.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/metrics.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/private_network.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/private_network.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/en/using_javatron/toolkit.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/en/using_javatron/toolkit.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/glossary/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/glossary.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/glossary/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/glossary.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/glossary.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/http/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/http.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/http/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/http.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/http.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/json-rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/json-rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/rpc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/api/rpc.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/api/rpc.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/database.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/database.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/architecture/event.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/event.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/tron-grid.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/tron-grid.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/clients/wallet-cli.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/clients/wallet-cli.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/contract.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tools.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/trc20.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/trc20.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/contracts/tvm.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/contracts/tvm.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/advanced-configuration.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/advanced-configuration.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/code-structure.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/code-structure.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/contribution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/contribution.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/contribution.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/demo.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/demo.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/deployment.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/deployment.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/governance.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/governance.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/gpg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/gpg.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/gpg.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/incentives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/incentives.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/incentives.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/issue-workflow.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/issue-workflow.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/java-tron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/java-tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/resources.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/resources.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/run-in-idea.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/run-in-idea.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/developers/tips.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/developers/tips.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/faq/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/faq/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/faq/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/faq/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/faq/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/getting_started/getting_started_with_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/getting_started/getting_started_with_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/introduction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/introduction/index.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/index.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/introduction/overview.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/introduction/overview.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/account.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/account.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dex.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/dpos.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/dpos.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/multi-signatures.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/multi-signatures.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/resource.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/resource.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-TRC20-contract.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-TRC20-contract.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/shielded-transaction.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/shielded-transaction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/sr.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/sr.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/system-contracts.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/system-contracts.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trc10.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trc10.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/mechanism-algorithm/trondex.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/history/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/history.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/history/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/history/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/history.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/history.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/signature_verification.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/signature_verification.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/releases/upgrade-instruction.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/releases/upgrade-instruction.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/backup_restore.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/backup_restore.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/connecting_to_tron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/connecting_to_tron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/installing_javatron.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/installing_javatron.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/litefullnode.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/litefullnode.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/metrics.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/metrics.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/private_network.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/private_network.html"/>
     </url>
     <url>
-        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit/</loc>
+        <loc>https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit.html</loc>
         <lastmod>2025-07-08</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/en/zh/using_javatron/toolkit.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit.html"/>
     </url>
 </urlset>

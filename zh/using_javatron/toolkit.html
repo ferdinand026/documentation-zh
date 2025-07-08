@@ -1,0 +1,1648 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ferdinand026.github.io/documentation-zh/zh/using_javatron/toolkit.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.8">
+    
+    
+      
+        <title>java-tron节点维护工具 - Toolkit - Java Tron</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#java-tron-toolkit" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../index.html" title="Java Tron" class="md-header__button md-logo" aria-label="Java Tron" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Java Tron
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              java-tron节点维护工具 - Toolkit
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="选择当前语言">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="toolkit.html" hreflang="zh" class="md-select__link">
+              简体中文
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../en/zh/using_javatron/toolkit.html" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../index.html" class="md-tabs__link">
+          
+  
+  简体中文
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../en/index.html" class="md-tabs__link">
+          
+  
+  English
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="Java Tron" class="md-nav__button md-logo" aria-label="Java Tron" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Java Tron
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    简体中文
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            简体中文
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    主页
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    English
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            English
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Getting Started With java-tron
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Getting Started With java-tron
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/getting_started/getting_started_with_javatron.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Getting Started
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Using java-tron
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Using java-tron
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/installing_javatron.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deploying
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/backup_restore.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backup and Restore
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/litefullnode.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lite FullNode
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/private_network.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Private Network
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/architecture/event.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event Subscription
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/architecture/database.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Database Configuration
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/connecting_to_tron.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Network Connection
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/metrics.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Node Monitoring
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/using_javatron/toolkit.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Node Maintenance Tool
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    API
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            API
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/api/http.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HTTP API
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/api/rpc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    gRPC API
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/api/json-rpc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    jsonRPC API
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Core Protocol
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Core Protocol
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/dpos.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DPoS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/sr.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Super Representative
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/account.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Account Model
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/resource.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resource Model
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/contracts/contract.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Smart Contract
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/system-contracts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    System Contract
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/dex.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decentralized Exchange
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/mechanism-algorithm/multi-signatures.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Account Permission Management
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    For java-tron Developers
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            For java-tron Developers
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/developers/java-tron.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Developer Guide
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    For Dapp Developers
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            For Dapp Developers
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../en/contracts/tools.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tools
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#toolkit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Toolkit的获取
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      数据库存储分区工具
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="数据库存储分区工具">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      命令及参数
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      使用说明
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="使用说明">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fullnode" class="md-nav__link">
+    <span class="md-ellipsis">
+      停止 FullNode 服务
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      数据库存储迁移配置
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      执行数据库迁移
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fullnode_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      重新启动 FullNode 服务
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      轻节点数据剪裁工具
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="轻节点数据剪裁工具">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      命令及参数
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      使用说明
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="java-tron-toolkit">java-tron节点维护工具 - Toolkit<a class="headerlink" href="#java-tron-toolkit" title="Permanent link">&para;</a></h1>
+<p>Test3</p>
+<p>Toolkit工具箱集成了一系列java-tron周边工具，未来还将向其增加更多的功能，以方便开发者使用。目前Toolkit包括的功能如下：</p>
+<ul>
+<li><a href="#_1">数据存储分区</a></li>
+<li><a href="#_6">轻节点数据裁剪</a></li>
+<li><a href="#_9">数据拷贝</a></li>
+<li><a href="#_11">数据转换</a></li>
+<li><a href="#leveldb">LevelDB启动优化</a></li>
+</ul>
+<p>下面详细介绍Toolkit工具箱的获取及使用。</p>
+<h2 id="toolkit">Toolkit的获取<a class="headerlink" href="#toolkit" title="Permanent link">&para;</a></h2>
+<p>可以通过编译java-tron源代码或者从已发布版本直接获取 <a href="https://github.com/tronprotocol/java-tron/releases"><code>Toolkit.jar</code></a></p>
+<p>编译源码：</p>
+<ol>
+<li>获取java-tron源码
+   <code>$ git clone https://github.com/tronprotocol/java-tron.git
+   $ git checkout -t origin/master</code></li>
+<li>编译</li>
+</ol>
+<p><code>$ cd java-tron
+   $ ./gradlew clean build -x test</code></p>
+<p>编译完成之后，<code>Toolkit.jar</code>会生成在 <code>java-tron/build/libs/</code> 目录下。</p>
+<h2 id="_1">数据库存储分区工具<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>随着链上数据持续增长，数据存储压力会越来越大，目前TRON公链的全节点数据已达到1T，每日数据增长约1.2G，按照目前数据增长速度，一年增长450G左右。用户单个磁盘可能会遇到容量不足的情况，需要更换更大的磁盘，为此Toolkit工具箱引入了数据库存储分区工具，工具能够根据用户的配置，将部分数据迁移到其他存储盘，当用户遇到磁盘空间不足时，只需要根据容量需求增加磁盘即可，无需更换原来的磁盘。</p>
+<h3 id="_2">命令及参数<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<p>通过<code>db mv</code>来使用Toolkit提供的数据迁移存储功能：</p>
+<div class="codehilite"><pre><span></span><code><span class="gh">#</span> full command
+java -jar Toolkit.jar db mv [-h] [-c=&lt;config&gt;] [-d=&lt;database&gt;]
+<span class="gh">#</span> examples
+java -jar Toolkit.jar db mv -c main_net_config.conf -d /data/tron/output-directory
+</code></pre></div>
+
+<p>可选命令参数如下：</p>
+<ul>
+<li><code>-c | --config</code>: [ string ]  此选项用于指定 FullNode 配置文件,不指定会使用默认值：config.conf。</li>
+<li><code>-d | --database-directory</code>: [ string ]  此选项用于指定FullNode数据库目录,不指定会使用默认值：output-directory。</li>
+<li><code>-h | --help</code>: [ bool ]  此选项用于查看帮助，默认值：false。</li>
+</ul>
+<h3 id="_3">使用说明<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<p>请按如下步骤使用数据库存储分区工具：</p>
+<ol>
+<li><a href="#fullnode">停止 FullNode 服务</a></li>
+<li><a href="#_4">数据库存储迁移配置</a></li>
+<li><a href="#_5">执行数据库迁移</a></li>
+<li><a href="#fullnode_1">重新启动 FullNode 服务</a></li>
+</ol>
+<h4 id="fullnode">停止 FullNode 服务<a class="headerlink" href="#fullnode" title="Permanent link">&para;</a></h4>
+<p>使用命令<code>kill -15 pid</code>关闭FullNode.jar，FullNode进程pid查找命令: </p>
+<div class="codehilite"><pre><span></span><code>$<span class="w"> </span>ps<span class="w"> </span>-ef<span class="w"> </span><span class="p">|</span>grep<span class="w"> </span>FullNode.jar<span class="w"> </span><span class="p">|</span>grep<span class="w"> </span>-v<span class="w"> </span>grep<span class="w"> </span><span class="p">|</span>awk<span class="w"> </span><span class="s1">&#39;{print $2}&#39;</span><span class="sb">`</span>
+</code></pre></div>
+
+<h4 id="_4">数据库存储迁移配置<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h4>
+<p>数据库迁移的配置在java-tron节点配置文件中的 <a href="https://github.com/tronprotocol/tron-deployment/blob/master/main_net_config.conf#L37">storage.properties</a> 字段。下面以只迁移<code>block</code> 和 <code>trans</code> 数据库为例，说明如何将部分数据库迁移到其它存储盘：</p>
+<div class="codehilite"><pre><span></span><code>storage {
+ ......
+  properties = [
+    {
+     name = &quot;block&quot;,
+     path = &quot;/data1/tron&quot;,
+
+    },
+    {
+     name = &quot;trans&quot;,
+     path = &quot;/data1/tron&quot;,
+   }
+  ]
+ ......
+}
+</code></pre></div>
+
+<p><code>name</code>是数据库名称,<code>path</code>是数据库迁移的目的目录，工具会将<code>name</code>指定的数据库迁移到<code>path</code>指定的目录，然后会在原来的目录下创建一个软链接指向<code>path</code>目录，<code>FullNode</code>启动后会根据软链接寻找到<code>path</code>目录。</p>
+<h4 id="_5">执行数据库迁移<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h4>
+<p>执行命令如下，执行后会显示当前迁移进度。</p>
+<div class="codehilite"><pre><span></span><code>$<span class="w"> </span>java<span class="w"> </span>-jar<span class="w"> </span>Toolkit.jar<span class="w"> </span>db<span class="w"> </span>mv<span class="w"> </span>-c<span class="w"> </span>main_net_config.conf<span class="w"> </span>-d<span class="w"> </span>/data/tron/output-directory
+</code></pre></div>
+
+<h4 id="fullnode_1">重新启动 FullNode 服务<a class="headerlink" href="#fullnode_1" title="Permanent link">&para;</a></h4>
+<p>迁移完成后，重新启动java-tron节点。</p>
+<div class="codehilite"><pre><span></span><code><span class="gh">#</span> FullNode
+$ nohup java -Xms9G -Xmx9G -XX:ReservedCodeCacheSize=256m \
+                -XX:MetaspaceSize=256m -XX:MaxMetaspaceSize=512m \
+                -XX:MaxDirectMemorySize=1G -XX:+PrintGCDetails \
+                -XX:+PrintGCDateStamps  -Xloggc:gc.log \
+                -XX:+UseConcMarkSweepGC -XX:NewRatio=2 \
+                -XX:+CMSScavengeBeforeRemark -XX:+ParallelRefProcEnabled \
+                -XX:+HeapDumpOnOutOfMemoryError \
+                -XX:+UseCMSInitiatingOccupancyOnly  -XX:CMSInitiatingOccupancyFraction=70 \
+                -jar FullNode.jar -c main_net_config.conf &gt;&gt; start.log 2&gt;&amp;1 &amp;
+
+<span class="gh">#</span> Super representitive&#39;s FullNode
+$ nohup java -Xms9G -Xmx9G -XX:ReservedCodeCacheSize=256m \
+               -XX:MetaspaceSize=256m -XX:MaxMetaspaceSize=512m \
+               -XX:MaxDirectMemorySize=1G -XX:+PrintGCDetails \
+               -XX:+PrintGCDateStamps  -Xloggc:gc.log \
+               -XX:+UseConcMarkSweepGC -XX:NewRatio=2 \
+               -XX:+CMSScavengeBeforeRemark -XX:+ParallelRefProcEnabled \
+               -XX:+HeapDumpOnOutOfMemoryError \
+               -XX:+UseCMSInitiatingOccupancyOnly  -XX:CMSInitiatingOccupancyFraction=70 \
+               -jar FullNode.jar --witness -c main_net_config.conf &gt;&gt; start.log 2&gt;&amp;1 &amp;
+</code></pre></div>
+
+<h2 id="_6">轻节点数据剪裁工具<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<p>Toolkit提供数据剪裁工具，主要用于轻节点数据的生成以及轻节点数据的剪裁。</p>
+<p>数据剪裁工具根据当前<code>最新区块高度</code>(latest_block_number)可将完整数据切分成快照数据集（Snapshot dataset）或历史数据集（History dataset），快照数据集用于启动轻节点，历史数据集用于历史数据查询。通过快照数据集启动的轻节点不支持查询剪裁时的最新区块高度之前的历史数据。数据剪裁工具还提供了将历史数据集同快照数据集合并的功能，使用场景如下：</p>
+<ul>
+<li>将全节点数据切分成轻节点数据
+    轻节点只基于快照数据集启动，使用数据剪裁工具将全节点数据切分成快照数据集，即得到轻节点数据</li>
+<li>定期剪裁轻节点数据
+    由于轻节点启动后，会保存与全节点同样的数据，所以轻节点虽然在启动时数据量非常小，但是后期的数据膨胀速度与全节点相同，因此可能需要定期剪裁数据。裁剪轻节点数据也是使用数据剪裁工具将轻节点数据切分成快照数据集，即得到裁剪后的轻节点数据</li>
+<li>将轻节点数据转回全节点数据
+    由于轻节点不支持历史数据查询，如果要支持，则需要将轻节点数据变为全节点数据，那么该节点也就从轻节点变成了全节点。可以直接下载全节点数据库快照实现，也可以使用数据剪裁工具：首先将全节点数据切分成历史数据集，再合并历史数据集与轻节点的快照数据集，得到全节点数据。</li>
+</ul>
+<p>注意：使用本工具进行任何操作之前，需要首先停止当前运行的节点。 </p>
+<h3 id="_7">命令及参数<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<p>通过<code>db lite</code>指令来使用Toolkit提供的数据剪裁工具：</p>
+<div class="codehilite"><pre><span></span><code><span class="err">#</span><span class="w"> </span><span class="nx">full</span><span class="w"> </span><span class="nx">command</span>
+<span class="w">  </span><span class="nx">java</span><span class="w"> </span><span class="o">-</span><span class="nx">jar</span><span class="w"> </span><span class="nx">Toolkit</span><span class="p">.</span><span class="nx">jar</span><span class="w"> </span><span class="nx">db</span><span class="w"> </span><span class="nx">lite</span><span class="w"> </span><span class="p">[</span><span class="o">-</span><span class="nx">h</span><span class="p">]</span><span class="w"> </span><span class="o">-</span><span class="nx">ds</span><span class="p">=&lt;</span><span class="nx">datasetPath</span><span class="p">&gt;</span><span class="w"> </span><span class="o">-</span><span class="kd">fn</span><span class="p">=&lt;</span><span class="nx">fnDataPath</span><span class="p">&gt;</span><span class="w"> </span><span class="p">[</span><span class="o">-</span><span class="nx">o</span><span class="p">=&lt;</span><span class="nx">operate</span><span class="p">&gt;]</span><span class="w"> </span><span class="p">[</span><span class="o">-</span><span class="nx">t</span><span class="p">=&lt;</span><span class="k">type</span><span class="p">&gt;]</span>
+<span class="err">#</span><span class="w"> </span><span class="nx">examples</span>
+<span class="w">  </span><span class="err">#</span><span class="nx">split</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="nx">get</span><span class="w"> </span><span class="nx">a</span><span class="w"> </span><span class="nx">snapshot</span><span class="w"> </span><span class="nx">dataset</span>
+<span class="w">  </span><span class="nx">java</span><span class="w"> </span><span class="o">-</span><span class="nx">jar</span><span class="w"> </span><span class="nx">Toolkit</span><span class="p">.</span><span class="nx">jar</span><span class="w"> </span><span class="nx">db</span><span class="w"> </span><span class="nx">lite</span><span class="w"> </span><span class="o">-</span><span class="nx">o</span><span class="w"> </span><span class="nx">split</span><span class="w"> </span><span class="o">-</span><span class="nx">t</span><span class="w"> </span><span class="nx">snapshot</span><span class="w"> </span><span class="o">--</span><span class="kd">fn</span><span class="o">-</span><span class="nx">data</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="nx">output</span><span class="o">-</span><span class="nx">directory</span><span class="o">/</span><span class="nx">database</span><span class="w"> </span><span class="o">--</span><span class="nx">dataset</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="o">/</span><span class="nx">tmp</span>
+<span class="w">  </span><span class="err">#</span><span class="nx">split</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="nx">get</span><span class="w"> </span><span class="nx">a</span><span class="w"> </span><span class="nx">history</span><span class="w"> </span><span class="nx">dataset</span>
+<span class="w">  </span><span class="nx">java</span><span class="w"> </span><span class="o">-</span><span class="nx">jar</span><span class="w"> </span><span class="nx">Toolkit</span><span class="p">.</span><span class="nx">jar</span><span class="w"> </span><span class="nx">db</span><span class="w"> </span><span class="nx">lite</span><span class="w"> </span><span class="o">-</span><span class="nx">o</span><span class="w"> </span><span class="nx">split</span><span class="w"> </span><span class="o">-</span><span class="nx">t</span><span class="w"> </span><span class="nx">history</span><span class="w"> </span><span class="o">--</span><span class="kd">fn</span><span class="o">-</span><span class="nx">data</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="nx">output</span><span class="o">-</span><span class="nx">directory</span><span class="o">/</span><span class="nx">database</span><span class="w"> </span><span class="o">--</span><span class="nx">dataset</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="o">/</span><span class="nx">tmp</span>
+<span class="w">  </span><span class="err">#</span><span class="nx">merge</span><span class="w"> </span><span class="nx">history</span><span class="w"> </span><span class="nx">dataset</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="nx">snapshot</span><span class="w"> </span><span class="nx">dataset</span>
+<span class="w">  </span><span class="nx">java</span><span class="w"> </span><span class="o">-</span><span class="nx">jar</span><span class="w"> </span><span class="nx">Toolkit</span><span class="p">.</span><span class="nx">jar</span><span class="w"> </span><span class="nx">db</span><span class="w"> </span><span class="nx">lite</span><span class="w"> </span><span class="o">-</span><span class="nx">o</span><span class="w"> </span><span class="nx">merge</span><span class="w"> </span><span class="o">--</span><span class="kd">fn</span><span class="o">-</span><span class="nx">data</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="o">/</span><span class="nx">tmp</span><span class="o">/</span><span class="nx">snapshot</span><span class="w"> </span><span class="o">--</span><span class="nx">dataset</span><span class="o">-</span><span class="nx">path</span><span class="w"> </span><span class="o">/</span><span class="nx">tmp</span><span class="o">/</span><span class="nx">history</span>
+</code></pre></div>
+
+<p>可选命令参数如下：</p>
+<ul>
+<li><code>--operation | -o</code>: [ split | merge ]  此选项用于指定使用拆分功能还是合并功能，默认为split。</li>
+<li><code>--type | -t</code>: [ snapshot | history ]  此选项只能同<code>-o split</code>配合使用。 <code>snapshot</code> 指示切分为快照数据集，<code>history</code>指示切分为历史数据集。 </li>
+<li><code>--fn-data-path | -fn</code>: 当操作类型是 <code>split</code>时, <code>fn-data-path</code> 用于指示待剪裁数据的目录；当操作类型是 <code>merge</code>时， <code>fn-data-path</code>指示轻节点的数据库目录或者快照数据集的目录。</li>
+<li><code>--dataset-path | -ds</code>: 当操作类型是 <code>split</code>时, <code>dataset-path</code> 用于指示切分完成的快照数据集或历史数据集输出目录；当操作类型是 <code>merge</code>时， <code>dataset-path</code>指示历史数据集目录。</li>
+</ul>
+<h3 id="_8">使用说明<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
+<p>节点数据库默认保存在<code>output-directory/database</code>目录下，本章节中的例子将以默认数据库目录进行说明。</p>
+<p>下面通过以下三个例子来说明如何使用数据剪裁工具：</p>
+<ul>
+<li>
+<p><strong>切分快照数据集</strong>
+    该功能可将全节点数据转换成轻节点数据，也可用于定期剪裁轻节点数据，步骤如下：</p>
+<p>首先, 停止节点然后执行命令:</p>
+<p>```shell</p>
+<h1 id="tmp">简单起见，将快照数据集存放在<code>/tmp</code>目录下<a class="headerlink" href="#tmp" title="Permanent link">&para;</a></h1>
+<p>java -jar Toolkit.jar db lite -o split -t snapshot --fn-data-path output-directory/database --dataset-path /tmp
+```</p>
+<ul>
+<li>--fn-data-path： 待剪裁数据目录，即节点数据目录</li>
+<li>--dataset-path： 存放输出的快照数据集的目录</li>
+</ul>
+<p>命令执行完毕之后，将在<code>/tmp</code>目录下生成<code>snapshot</code>目录，此目录中的数据即为轻节点数据，将该目录中的数据拷贝到节点数据库目录中即可。假设节点的数据库目录为<code>output-directory/database</code>, 则可以将<code>snapshot</code>目录名修改为<code>database</code>，并拷贝到Lite FullNode的运行目录output-directory之下，完成轻节点数据剪裁，最后启动轻节点。 </p>
+</li>
+<li>
+<p><strong>切分历史数据集</strong></p>
+<p>切分历史数据集的命令如下：</p>
+<p>```shell</p>
+<h1 id="tmp_1">简单起见，将历史数据集存放在<code>/tmp</code>目录下<a class="headerlink" href="#tmp_1" title="Permanent link">&para;</a></h1>
+<p>java -jar Toolkit.jar db lite -o split -t history --fn-data-path output-directory/database --dataset-path /tmp
+```</p>
+<ul>
+<li>--fn-data-path： 全节点数据目录</li>
+<li>--dataset-path： 存放输出的历史数据集的目录</li>
+</ul>
+<p>命令执行完毕之后，将在<code>/tmp</code>目录下生成<code>history</code>目录，即切分好的历史数据集。</p>
+</li>
+<li>
+<p><strong>合并历史数据集和快照数据集</strong></p>
+<p>历史数据集和快照数据集中都保存了一个info.properties文件，用于记录数据拆分时的区块高度。需要注意的是，两个数据集进行合并时，历史数据集的区块高度必须大于等于快照数据集的区块高度。通过merge操作将历史数据集同快照数据集进行合并之后，轻节点将成为一个真正的全节点。</p>
+<p>合并历史数据集和快照数据集的命令如下：</p>
+<p>```shell</p>
+<h1 id="tmp_2">简单起见，假设历史数据集存放在了<code>/tmp</code>目录下<a class="headerlink" href="#tmp_2" title="Permanent link">&para;</a></h1>
+<p>java -jar Toolkit.jar db lite -o merge --fn-data-path /tmp/snapshot --dataset-path /tmp/history
+```</p>
+<ul>
+<li>--fn-data-path： 快照数据集目录</li>
+<li>--dataset-path： 历史数据集目录</li>
+</ul>
+<p>命令执行完毕后，合并后的数据将覆盖快照数据集所在目录，即<code>--fn-data-path</code>指定的目录，将合并完成的数据拷贝到节点数据库目录下，轻节点变成一个全节点。</p>
+</li>
+</ul>
+<h2 id="_9">数据拷贝<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<p>节点数据库较大，数据库拷贝操作较耗时，而Toolkit工具箱提供数据库快速拷贝功能，通过创建一个硬链接来实现在同一文件系统中快速的拷贝LevelDB或者RocksDB数据库。</p>
+<h3 id="_10">命令及参数<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h3>
+<p>通过<code>db copy</code>来使用Toolkit提供的数据拷贝功能：</p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># full command</span>
+<span class="w">  </span>java<span class="w"> </span>-jar<span class="w"> </span>Toolkit.jar<span class="w"> </span>db<span class="w"> </span>cp<span class="w"> </span><span class="o">[</span>-h<span class="o">]</span><span class="w"> </span>&lt;src&gt;<span class="w"> </span>&lt;dest&gt;
+<span class="c1"># examples</span>
+<span class="w">  </span>java<span class="w"> </span>-jar<span class="w"> </span>Toolkit.jar<span class="w"> </span>db<span class="w"> </span>cp<span class="w">  </span>output-directory/database<span class="w"> </span>/tmp/databse
+</code></pre></div>
+
+<p>可选命令参数如下：</p>
+<ul>
+<li><code>&lt;src&gt;</code>: 此选项用于指定数据库目录，默认值为： <code>output-directory/database</code></li>
+<li><code>&lt;dest&gt;</code>: 拷贝的目标目录，默认值为： <code>output-directory-cp/database</code></li>
+<li><code>-h | --help</code>：[ bool ]  此选项用于查看帮助，默认值：false。</li>
+</ul>
+<p>注意：使用本工具进行任何操作之前，需要首先停止当前运行的节点。 </p>
+<h2 id="_11">数据转换<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h2>
+<p>Toolkit工具箱支持数据库数据转换功能，可以将LevelDB的数据转换RocksDB数据。</p>
+<h3 id="_12">命令及参数<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h3>
+<p>通过<code>db convert</code>来使用Toolkit提供的数据转换功能：</p>
+<div class="codehilite"><pre><span></span><code># full command
+  java -jar Toolkit.jar db convert [-h] [--safe] &lt;src&gt; &lt;dest&gt;
+# examples
+  java -jar Toolkit.jar db convert  output-directory/database /tmp/database
+</code></pre></div>
+
+<p>可选命令参数如下：</p>
+<ul>
+<li><code>&lt;src&gt;</code>: 此选项用于指定LevelDB数据目录，默认值为： <code>output-directory/database</code></li>
+<li><code>&lt;dest&gt;</code>: 输出的RocksDB数据目录，默认值为： <code>output-directory-dst/database</code></li>
+<li><code>--safe</code>：是否以安全模式转换数据，默认为false。如果采用安全模式，则从leveldb读取数据然后写入rocksdb中，整个过程耗时较长。如果不采用安全模式，由于在当前版本中rocksdb与leveldb兼容，所以仅仅是将<code>engine.properties</code>配置项从leveldb更改为rocksdb。</li>
+<li><code>-h | --help</code>：[ bool ]  此选项用于查看帮助，默认值：false。</li>
+</ul>
+<p>注意：使用本工具进行任何操作之前，需要首先停止当前运行的节点。 </p>
+<h2 id="leveldb">LevelDB启动优化<a class="headerlink" href="#leveldb" title="Permanent link">&para;</a></h2>
+<p>随着levelDB的运行，levelDB manifest文件会持续增长，过大的manifest文件不但影响节点启动速度，而且还有可能出现由于内存持续增长导致服务异常中止的问题。 为了解决这一问题，Toolkit工具箱提供LevelDB启动优化工具，该工具可以优化manifest的文件大小以及LevelDB的启动过程，减少内存占用，提升节点启动速度。</p>
+<h3 id="_13">命令及参数<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h3>
+<p>通过<code>db archive</code>来使用Toolkit提供的LevelDB启动优化功能：</p>
+<div class="codehilite"><pre><span></span><code># full command
+   java -jar Toolkit.jar db archive [-h] [-b=&lt;maxBatchSize&gt;] [-d=&lt;databaseDirectory&gt;] [-m=&lt;maxManifestSize&gt;]
+# examples
+   #1. use default settings
+   java -jar Toolkit.jar db archive 
+   #2. specify the database directory as /tmp/db/database
+   java -jar Toolkit.jar db archive -d /tmp/db/database 
+   #3. specify the batch size to 64000 when optimizing manifest
+   java -jar Toolkit.jar db archive -b 64000
+   #4. specify optimization only when Manifest exceeds 128M
+   java -jar Toolkit.jar db archive -m 128 
+</code></pre></div>
+
+<p>可选命令参数如下：</p>
+<ul>
+<li><code>-b | --batch-size</code>: 指定manifest batch size，默认值为： 80000</li>
+<li><code>-d | --database-directory</code>: LevelDB数据库目录，默认值为： <code>output-directory/database</code></li>
+<li><code>-m | --manifest-size</code>: manifest文件大小的最小值，manifest文件大小低于此值时，不进行处理，高于该值时才进行批处理，单位:M，默认值:0。</li>
+<li><code>-h | --help</code>：[ bool ]  此选项用于查看帮助，默认值：false。</li>
+</ul>
+<p>注意：使用本工具进行任何操作之前，需要首先停止当前运行的节点。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tracing", "navigation.expand", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+    
+  </body>
+</html>
