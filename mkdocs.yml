@@ -17,16 +17,15 @@ markdown_extensions:
 plugins:
   - search
   - i18n:
-      default_language: en
+      docs_structure: folder
       languages:
-        - locale: zh
-          name: 简体中文
-          default: true
-          build: true
         - locale: en
           name: English
+          default: true
           build: true
-      material_alternate: false
+        - locale: zh
+          name: 简体中文
+          build: true
 
 nav:
   - 简体中文:
