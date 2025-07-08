@@ -1,0 +1,31 @@
+nav:
+  - Home: en/index.md
+  - Getting Started With java-tron:
+      - Getting Started: en/getting_started/getting_started_with_javatron.md
+  - Using java-tron:
+      - Deploying: en/using_javatron/installing_javatron.md
+      - Backup and Restore: en/using_javatron/backup_restore.md
+      - Lite FullNode: en/using_javatron/litefullnode.md
+      - Private Network: en/using_javatron/private_network.md
+      - Event Subscription: en/architecture/event.md
+      - Database Configuration: en/architecture/database.md
+      - Network Connection: en/using_javatron/connecting_to_tron.md
+      - Node Monitoring: en/using_javatron/metrics.md
+      - Node Maintenance Tool: en/using_javatron/toolkit.md
+  - API:
+      - HTTP API: en/api/http.md
+      - gRPC API: en/api/rpc.md
+      - jsonRPC API: en/api/json-rpc.md
+  - Core Protocol:
+      - DPoS: en/mechanism-algorithm/dpos.md
+      - Super Representative: en/mechanism-algorithm/sr.md
+      - Account Model: en/mechanism-algorithm/account.md
+      - Resource Model: en/mechanism-algorithm/resource.md
+      - Smart Contract: en/contracts/contract.md
+      - System Contract: en/mechanism-algorithm/system-contracts.md
+      - Decentralized Exchange: en/mechanism-algorithm/dex.md
+      - Account Permission Management: en/mechanism-algorithm/multi-signatures.md
+  - For java-tron Developers:
+      - Developer Guide: en/developers/java-tron.md
+  - For Dapp Developers:
+      - Tools: en/contracts/tools.md
