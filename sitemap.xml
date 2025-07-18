@@ -701,6 +701,12 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://ferdinand026.github.io/documentation-zh/using_javatron/toolkit/"/>
     </url>
     <url>
+        <loc>https://ferdinand026.github.io/documentation-zh/zh/architecture/mongodb-plugin-deployment/</loc>
+        <lastmod>2025-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://ferdinand026.github.io/documentation-zh/zh/architecture/mongodb-plugin-deployment/"/>
+    </url>
+    <url>
         <loc>https://ferdinand026.github.io/documentation-zh/zh/mechanism-algorithm/trondex/</loc>
         <lastmod>2025-07-18</lastmod>
         <changefreq>daily</changefreq>
