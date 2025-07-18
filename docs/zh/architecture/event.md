@@ -108,9 +108,9 @@ contractTopics: contract topics列表
 
 
 
-# 如何迁移至新版事件服务（V2.0）
+## 如何迁移至新版事件服务（V2.0）
 新版事件服务框架（V2.0）引入了对历史事件回溯的支持，并优化了事件推送机制。若你希望利用更高效、更稳定的事件处理能力，此指南将帮助你平滑完成迁移。
-## 迁移前的关键评估
+### 迁移前的关键评估
 在进行迁移之前，请根据以下因素评估当前业务是否适合升级至 V2.0：
 1. 是否依赖内部交易日志？
    当前 V2.0 暂不支持内部交易日志，即事件中的 internalTransactionList 字段为空。如果你的业务依赖该字段（如内部调用追踪），建议继续使用 V1.0，等待后续版本支持该功能。
@@ -118,9 +118,9 @@ contractTopics: contract topics列表
 2. 是否使用了较旧版本的事件插件？
    建议同步升级事件插件至最新版。旧版本插件在处理大量历史事件时可能出现性能瓶颈或内存问题，从而影响数据同步与消费效率。
 
-## 迁移操作步骤
+### 迁移操作步骤
 
-### 步骤1：获取并编译新版事件插件
+#### 步骤1：获取并编译新版事件插件
 你可以从 GitHub 获取源码并自行构建，或直接下载官方 release 版本：
 **方式一：源码构建**
 ```
@@ -137,7 +137,7 @@ git checkout master
 
 
 
-### 步骤2：修改 FullNode 配置启用新版事件服务
+#### 步骤2：修改 FullNode 配置启用新版事件服务
 
 在 config.conf 文件中添加或修改以下配置项以启用新版事件服务：
 
@@ -145,12 +145,12 @@ git checkout master
 event.subscribe.version = 1    # 1 means v2.0 , 0 means v1.0
 ```
 
-### 步骤 3：配置事件插件
+#### 步骤 3：配置事件插件
 新版事件服务的插件配置方式与旧版基本一致，你可以参考以下文档完成插件部署：
 * [事件插件部署(MongoDB)](https://cn.developers.tron.network/docs/event-plugin-deployment-mongodb)
 * [事件插件部署(Kafka)](https://cn.developers.tron.network/docs/event-plugin-deployment-kafka)
 
-### 步骤 4（可选）：配置历史事件同步起点
+#### 步骤 4（可选）：配置历史事件同步起点
 
 如果你希望从指定区块高度开始同步历史事件，请在配置文件中加入：
 
@@ -158,7 +158,7 @@ event.subscribe.version = 1    # 1 means v2.0 , 0 means v1.0
 event.subscribe.startSyncBlockNum = <block_height>
 ```
 
-### 步骤 5：启动 FullNode 和插件
+#### 步骤 5：启动 FullNode 和插件
 完成上述配置后，使用以下命令启动 FullNode 并加载事件插件：
 
 ```
